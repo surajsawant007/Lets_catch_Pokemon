@@ -1,8 +1,28 @@
-# React + Vite
+Let's Catch Pokémon
+Description
+"Let's Catch Pokémon" is an interactive web application that allows users to explore the world of Pokémon, find their favorite creatures, and discover details about them. The platform offers a user-friendly interface to search and filter Pokémon based on various criteria, providing an engaging experience for Pokémon enthusiasts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Summary
+Developed a feature-rich web application named "Let's Catch Pokémon," which serves as a comprehensive guide for Pokémon lovers. The application enables users to search, filter, and view detailed information about different Pokémon species. Key features include an intuitive search system, a sleek and responsive design, and an extensive database of Pokémon information. The project showcases modern web development practices and offers a seamless user experience across different devices.
 
-Currently, two official plugins are available:
+Deployment
+The project is deployed on Netlify, making it easily accessible online.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Live Here: Let's Catch Pokémon
+
+Authors
+🚀 About Me
+👋 Hi, I’m Suraj Sawant
+
+👀 I’m interested in coding and web development.
+
+🌱 I’m currently a Full Stack Web Developer & Java Programmer.
+
+💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+
+Email: surajsawant3482@gmail.com
+LinkedIn: Suraj Sawant
+Instagram: suraj_sawant_07
+GitHub: surajsawant007
+Feedback
+If you have any feedback, please reach out to me at surajsawant3482@gmail.com.
